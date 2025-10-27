@@ -1,0 +1,9 @@
+
+Repository: Bir projenin dosyalarının ve geçmiş kodların saklandığı yerdir.
+Commit = kaydetmek  demektir. Anlık görüntüler çekiyo gibi düşünebiliriz.
+Branch = Ana kodu bozmadan yan kodlar yazabilmeye olanak sağlar.
+Stage = commit’ten önceki hazırlık alanıdır.
+Git, değişiklikleri doğrudan kaydetmediği için önce stage’e alınır. Ardından commit e geçer.
+Merge = Farklı branchlerdeki kodları tek bir yerde birleştirmek.
+Pull = Başka birinin repository’deki kodunu kendi bilgisayarına indirmek.
+Push = Benim kodlarımı başka bir repository ye göndermem.
